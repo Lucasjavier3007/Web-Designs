@@ -1,0 +1,5 @@
+Cliente solicita creacion de sitio Web:
+1) Poder cargar imagenes de productos
+2) Poder tener un sistema de stock (BBDD)
+3) Enlazar Instagram
+4) Formulario de Contacto
